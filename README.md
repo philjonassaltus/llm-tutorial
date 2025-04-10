@@ -9,5 +9,5 @@ To install tensorflow
 Finally
 `python3 main.py`
 
-
+Following this tutorial:
 https://configr.medium.com/building-your-first-llm-a-comprehensive-beginners-guide-to-language-model-development-4c1cfd4e797b
